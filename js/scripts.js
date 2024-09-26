@@ -19,10 +19,10 @@ const aiTools = {
       link: "https://www.machine.ai/",
     },
     {
-      name: "King AI",
+      name: "Kling AI",
       description: "Create stunning videos with AI technology.",
       image: "images/king_ai.png",
-      link: "https://www.kingai.tech/",
+      link: "https://klingai.com/",
     },
     {
       name: "Fliki",
