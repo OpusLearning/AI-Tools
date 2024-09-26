@@ -320,7 +320,7 @@ function renderToolsByCategory(toolsByCategory) {
       const card = document.createElement("div");
       card.className = "tool-card";
       card.innerHTML = `
-                  <img src="${tool.image}" alt="${tool.name}">
+                 
                   <div class="tool-card-content">
                       <h3>${tool.name}</h3>
                       <p>${tool.description}</p>
