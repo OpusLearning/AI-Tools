@@ -76,10 +76,10 @@ const aiTools = {
       link: "https://apob.ai/",
     },
     {
-      name: "Kittle.com",
+      name: "Kittl.com",
       description: "Design beautiful logos and graphics easily.",
       image: "images/kittle.png",
-      link: "https://www.kittle.com/",
+      link: "https://www.kittl.com/",
     },
     {
       name: "Redraft.ai",
@@ -135,6 +135,30 @@ const aiTools = {
       image: "images/designs_ai.png",
       link: "https://designs.ai/",
     },
+    {
+      name: "Copy Coptor",
+      description: "Turn prompts into videos at ultra speed.",
+      image: "images/designs_ai.png",
+      link: "https://copycopter.ai/",
+    },
+    {
+      name: "Meshy AI",
+      description: "3D models with Ai.",
+      image: "images/designs_ai.png",
+      link: "https://www.meshy.ai/",
+    },
+    {
+      name: "Artflow AI",
+      description: "Visualise yourself in unlimited ways.",
+      image: "images/designs_ai.png",
+      link: "https://app.artflow.ai/character-builder?feature=actors",
+    },
+    {
+      name: "Womp AI",
+      description: "The Future of 3D",
+      image: "images/designs_ai.png",
+      link: " https://womp.com/index",
+    },
   ],
 
   "AI Writing & Content Creation": [
@@ -142,7 +166,7 @@ const aiTools = {
       name: "Aithor",
       description: "Write essays and content better than GPT.",
       image: "images/aithor.png",
-      link: "https://aithor.ai/",
+      link: "https://aithor.com/",
     },
     {
       name: "CopyAI",
@@ -175,10 +199,10 @@ const aiTools = {
       link: "https://www.taskade.com/",
     },
     {
-      name: "Google Bard",
+      name: "Google Gemini",
       description: "AI assistant for writing and creative tasks.",
       image: "images/google_bard.png",
-      link: "https://bard.google.com/",
+      link: "https://gemini.google.com/app",
     },
     {
       name: "Durable.co",
@@ -191,6 +215,12 @@ const aiTools = {
       description: "Create beautiful websites with AI in minutes.",
       image: "images/10website_ai.png",
       link: "https://10web.io/",
+    },
+    {
+      name: "Printify",
+      description: "Make products",
+      image: "images/10website_ai.png",
+      link: "https://printify.com/",
     },
   ],
 
